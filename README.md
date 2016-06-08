@@ -13,7 +13,7 @@ sys
 python setup.py install
 
 #授权
-请勿用于任何商业用途
+仅限用于学习交流，请勿用于任何商业用途
 
 #使用
 下边的使用都假设用户已经申请了顺丰开放平台的appid和appkey
