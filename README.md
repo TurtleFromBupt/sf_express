@@ -1,4 +1,4 @@
-# non official python sdk
+# unofficial python sdk
 
 #简介
 因为顺丰官方未提供python的SDK，技术支持人员的回复也不够及时。因此在接入的时候花了一点时间。为了避免将来的人走同样的弯路，将自己的代码稍加整理开源出来供参考
