@@ -7,10 +7,6 @@ from datetime import datetime
 import sys
 
 
-
-#url = 'https://open-sbox.sf-express.com/public/v1.0/security/access_token/sf_appid/00014841/sf_appkey/58729CDBB45678286BC1F5A197905514'
-#url = 'https://open-prod.sf-express.com/public/v1.0/security/access_token/sf_appid/00014841/sf_appkey/58729CDBB45678286BC1F5A197905514'
-
 def send_request(url,data):
 	headers = {"Content-Type"	:	"application/json"}
 	conn = httplib.HTTPSConnection('open-sbox.sf-express.com')
